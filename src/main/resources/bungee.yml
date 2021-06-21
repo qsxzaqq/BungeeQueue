@@ -1,0 +1,4 @@
+name: BungeeQueue
+version: ${project.version}
+main: cc.i9mc.bungeequeue.BungeeQueue
+depends: [PluginChannel, RedisBungee]

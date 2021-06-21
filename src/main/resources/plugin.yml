@@ -1,0 +1,9 @@
+name: BungeeQueue
+version: ${project.version}
+main: cc.i9mc.bungeequeue.BukkitQueue
+author: JinVan
+depend: [PluginChannel]
+softdepend: [PlaceholderAPI]
+
+commands:
+  queue:
